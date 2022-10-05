@@ -1,1 +1,2 @@
-The first README file inside this directory
+I just finished updating My first readme file in this directory
+
